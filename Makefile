@@ -1,12 +1,13 @@
 .PHONY: build
+.PHONY: test
 
 	install:
 	pip install .
 
-intall-dev:
+install-dev:
 	pip install -e .[dev]
 
-intall-maintain:
+install-maintain:
 	pip install -e .[dev,maintainer]
 
 build:
@@ -14,6 +15,9 @@ build:
 
 clean:
 	python setup.py clean --all
+
+test:
+	tox
 
 publish:
 	twine upload dist/*
