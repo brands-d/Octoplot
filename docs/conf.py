@@ -10,10 +10,10 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
+import os
+import sys
 import sphinx_rtd_theme
-# sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('..'))
 
 
 # -- Project information -----------------------------------------------------
@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 project = 'Octoplot'
 copyright = '2021, Dominik Brandstetter'
 author = 'Dominik Brandstetter'
-
+version = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 
