@@ -2,7 +2,7 @@
 Octoplot
 ============
 
-Octoplot does quick pre-defined standard analyzing and plot routines on the results of ab-initio electronic structure calculations done with Octopus[1].
+**Octoplot** does quick pre-defined standard analyzing and plot routines on the results of ab-initio electronic structure calculations done with Octopus[1].
 
 
 GitHub Page: https://github.com/brands-d/Octoplot

@@ -19,9 +19,9 @@ setup(
     package_dir={'': 'src'},
     install_requires=[],
     extras_require={
-        'dev': ['bump2version==1.0.1', 'pytest==6.2.5','tox==3.24.3'],
+        'dev': ['bump2version==1.0.1', 'pytest==6.2.5', 'tox==3.24.3'],
         'maintainer': ['sphinx==4.1.2', 'check-manifest==0.46',
-                       'twine==3.4.2']},
+                       'twine==3.4.2', 'sphinx-rtd-theme==0.5.2']},
     classifiers=['Development Status :: 1 - Planning',
                  'Topic :: Documentation :: Sphinx',
                  'Natural Language :: English',
