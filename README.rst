@@ -6,12 +6,14 @@ Octoplot
 
 
 GitHub Page: https://github.com/brands-d/Octoplot
+Documentation: https://octoplot.readthedocs.io/en/latest/
 
 Authors
 ===============
 - Peter Puschnig, Assoz. Prof. Dipl.-Ing. Dr. (peter.puschnig@uni-graz.at)
 - Christian Kern, MSc.
 - Dominik Brandstetter, BSc. (dominik.brandstetter@edu.uni-graz.at)
+
 
 References
 ===============

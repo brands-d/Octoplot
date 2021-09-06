@@ -17,10 +17,3 @@ Welcome to Octoplot's documentation!
 
    readme
    module
-
-..Indices and tables
-..==================
-
-..* :ref:`genindex`
-..* :ref:`modindex`
-..* :ref:`search`
